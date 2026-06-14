@@ -25,7 +25,7 @@ A small PHP application ("messages" demo) was deployed across two Ubuntu VMs to 
 
 ## Architecture
 
-![Website Screenshot](Website_Image.png)
+![Architecture Screenshot](Architecture.jpeg)
 
 ## Steps Followed
 1. Created two VMs (`db` and `web`) on a private network using a Vagrantfile:
@@ -67,11 +67,13 @@ A small PHP application ("messages" demo) was deployed across two Ubuntu VMs to 
 11. Visited http://localhost:8080 in a browser to confirm the site was live and reading data from the database VM
 
 ## 📸 Screenshots
-### Website Running
-![Website Screenshot](Website_Image.png)
 
 ### Virtual Machines Running
-![Website Screenshot](Website_Image.png)
+![VM Screenshot](VM.jpeg)
+
+### Website Running
+![Website Screenshot](Website.jpeg)
+
 
 
 
